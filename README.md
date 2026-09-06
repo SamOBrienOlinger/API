@@ -15,7 +15,7 @@ A browser interface for experimenting with a JavaScript linting API.
 
 ## Getting started
 
-Requires a browser and a local HTTP server. Python 3 provides one without installing application packages.
+Requires Git, a browser and a local HTTP server. Python 3 provides one without installing application packages.
 
 ```bash
 git clone https://github.com/SamOBrienOlinger/API.git
